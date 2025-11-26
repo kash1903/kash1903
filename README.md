@@ -64,7 +64,7 @@ A full-stack job portal connecting employers and job seekers
 🔗 *https://jobconnect-2gk2.onrender.com/*
 
 ### 🔹 Event Management   
-An full Stack Application for Event Management build using(Spring Boot + PostgreSQL) 
+An full Stack Application for Event Management
 🔗 *https://event-management-2h31.onrender.com/*
 
 ### 🔹 SmartSpend  
