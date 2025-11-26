@@ -61,15 +61,15 @@ Here are some of my best works:
 
 ### 🔹 JobConnect (Full Stack - Java + Spring Boot)
 A full-stack job portal connecting employers and job seekers  
-🔗 *Add project link here*
+🔗 *https://jobconnect-2gk2.onrender.com/*
 
-### 🔹 Ecommerce Website  
-Frontend built using HTML, CSS, JS  
-🔗 *Add project link here*
+### 🔹 Event Management   
+An full Stack Application for Event Management build using(Spring Boot + PostgreSQL) 
+🔗 *https://event-management-2h31.onrender.com/*
 
 ### 🔹 SmartSpend  
 Expense tracking application with data visualization  
-🔗 *Add project link here*
+🔗 *https://smartspend-j5rf.onrender.com/*
 
 ---
 
